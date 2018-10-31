@@ -35,3 +35,11 @@ Berikut Keterangan Jawaban
      Saya membuatnya dengan metode yang di ajarkan pada pertemuan seminggu sebelumnya di mata kuliah ini. dimana nama dari ArrayListnya adalah "Jauh", mengunakan perintah insert untuk memasukkan data dan get untuk mengeluarkannya.
   r. MainQueueFloat
      Class ini berhubungan dengan kelas sebelumnya yakni QueueFloat, dimana nama metodenya adalah "km" dan ini berhungan dengan metode yang ada di kelas sebelumnya.
+  s. Stack
+     Di class ini jujur saya kurang mengerti dan saya mencari di google mengaenai variable tipe generic dan menemukan source codenya. di sini terdapat beberapa baris source kode dimana source code array listnya ada penembahan script <T>.
+  t. MainStack
+     class ini sama dengan class main pda umumnya dimana terdapat script public static void agar dapat di eksekusi saat melihatnya. class ini berhubungan dengan class Stack.
+  u. Queue
+     Di class ini juga, jujur saya kurang mengerti dan saya mencari di google mengaenai variable tipe generic dan menemukan source codenya. di sini terdapat beberapa baris source kode dimana source code array listnya ada penembahan script <T>.
+  v. MainQueue
+     class ini sama dengan class main pda umumnya dimana terdapat script public static void agar dapat di eksekusi saat melihatnya. class ini berhubungan dengan class Queue.
